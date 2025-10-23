@@ -1,80 +1,108 @@
-<!-- Yash Pratap Rai - GitHub Profile README -->
+<!-- 🌟 Yash Pratap Rai - GitHub Profile -->
 
-<h1 align="center">✨ Hi there, I'm Yash Pratap Rai 👋</h1>
-<h3 align="center">🚀 Data Analyst | MERN Developer | Problem Solver</h3>
+<!-- Header Section -->
+<div align="center">
+  
+# 👋 Hi, I'm **Yash Pratap Rai**  
+### 🚀 Data Analyst | MERN Developer | Lifelong Learner  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashprataprai&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/yashprataprai?label=Followers&style=for-the-badge" alt="followers" />
-  <img src="https://img.shields.io/github/stars/yashprataprai?label=Stars&style=for-the-badge" alt="stars" />
-</p>
-
----
-
-### 🧠 About Me  
-💻 Passionate about **Data Analytics, Web Development, and Building Scalable Solutions**.  
-📊 Skilled in **Python, SQL, JavaScript, MERN Stack, and Machine Learning**.  
-🌱 Currently exploring **Data-Driven Applications** and **Cloud Integrations**.  
-🧩 Love solving real-world problems and turning data into insights.  
-🎯 Goal: **To bridge data analytics with intelligent web systems.**
-
-🔗 **Portfolio:** [yashprataprai.vercel.app](https://my-portfolio-kappa-one-29.vercel.app/)  
-📧 **Email:** raiyashpratap@gmail.com  
+💡 Turning **Data into Insights** & **Code into Impact**.  
+Passionate about **Data Analytics**, **Web Apps**, and **Machine Learning**.
 
 ---
 
-### 🤝 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/yash-pratap-rai/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="https://www.kaggle.com/yashprataprai" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="40"/>
-  </a>
-  <a href="https://leetcode.com/u/12305809/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/raiyashrwn0/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GFG" height="40"/>
-  </a>
-</p>
+### 🌐 Portfolio → [yashprataprai.vercel.app](https://my-portfolio-kappa-one-29.vercel.app/)
+📩 Reach Me → **raiyashpratap@gmail.com**
+
+![Profile Views](https://komarev.com/ghpvc/?username=yashprataprai&color=blueviolet&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/yashprataprai?logo=github&style=for-the-badge)](https://github.com/yashprataprai?tab=followers)
+[![Stars](https://img.shields.io/github/stars/yashprataprai?logo=github&style=for-the-badge)](https://github.com/yashprataprai?tab=repositories)
+
+</div>
 
 ---
 
-### 🧰 Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,seaborn,mongodb,mysql,cpp,c,js,react,nodejs,express,git,github,linux,vscode" />
-</p>
+## 🧭 About Me  
+🎓 I'm a **Data Analyst** & **Full-Stack Developer** with a strong analytical mindset.  
+💻 Experienced in **MERN**, **Python**, **SQL**, **Power BI**, and **Machine Learning**.  
+🌱 I love working on **Data Visualizations**, **Dashboards**, and **Predictive Models**.  
+⚡ I aim to combine **Analytics + Development** to build smart, data-driven systems.  
 
 ---
 
-### 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashprataprai&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophies" />
-</p>
+## 🤝 Connect With Me  
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yash-pratap-rai/)
+[![Kaggle](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg)](https://www.kaggle.com/yashprataprai)
+[![LeetCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://leetcode.com/u/12305809/)
+[![GeeksforGeeks](https://img.icons8.com/color/48/GeeksforGeeks.png)](https://www.geeksforgeeks.org/user/raiyashrwn0/)
+
+</div>
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashprataprai&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashprataprai&theme=tokyonight&hide_border=true" height="165" />
-</p>
+## 🧰 Languages & Tools  
+<div align="center">
+
+![Python](https://skillicons.dev/icons?i=python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-7BAFD4?style=for-the-badge&logo=seaborn&logoColor=white)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Git](https://skillicons.dev/icons?i=git)
+![Linux](https://skillicons.dev/icons?i=linux)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![C++](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=c)
+
+</div>
 
 ---
 
-### 💡 Featured Projects  
-🚀 [**Portfolio Website**](https://my-portfolio-kappa-one-29.vercel.app/) – My personal portfolio showcasing my projects and skills.  
-📊 [**Data Analytics Projects**](https://github.com/yashprataprai?tab=repositories&q=data&type=&language=&sort=) – Exploratory Data Analysis & ML Insights.  
-🌐 [**MERN Applications**](https://github.com/yashprataprai?tab=repositories&q=mern&type=&language=&sort=) – Full-stack projects using MongoDB, Express, React, and Node.js.  
+## 🏆 GitHub Achievements  
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=yashprataprai&theme=algolia&margin-w=10&no-frame=true)
+
+</div>
 
 ---
 
-### 💬 Quote of the Day  
-> "Turning data into insight, and insight into action."  
+## 📊 GitHub Stats  
+<div align="center">
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashprataprai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashprataprai&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashprataprai&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+✨;Let's+connect+and+build+something+amazing!+🚀" />
-</p>
+## 🚀 Featured Projects  
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🌐 [Portfolio Website](https://my-portfolio-kappa-one-29.vercel.app/) | My personal site showcasing projects & achievements | Next.js, React, CSS |
+| 📊 [Data Analytics Projects](https://github.com/yashprataprai?tab=repositories&q=data&type=&language=&sort=) | Exploratory Data Analysis & Machine Learning projects | Python, Pandas, PowerBI |
+| 🧩 [MERN Applications](https://github.com/yashprataprai?tab=repositories&q=mern&type=&language=&sort=) | Full-stack applications with MERN | MongoDB, Express, React, Node.js |
+
+---
+
+## 💬 Quote  
+> “Code is the language of logic; Data is the language of truth.”  
+
+---
+
+<div align="center">
+
+### 🪶 Thanks for Visiting!  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Building+Intelligent+Systems+with+Data+%26+Code;Connect+with+me+to+create+something+amazing!;Have+a+great+day+%F0%9F%8C%9F" alt="Typing SVG" />
+
+</div>
