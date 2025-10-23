@@ -1,108 +1,87 @@
-<!-- 🌟 Yash Pratap Rai - GitHub Profile -->
+<!-- 🌟 YASH PRATAP RAI - GITHUB PROFILE README -->
 
-<!-- Header Section -->
-<div align="center">
-  
-# 👋 Hi, I'm **Yash Pratap Rai**  
-### 🚀 Data Analyst | MERN Developer | Lifelong Learner  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+There!+I'm+Yash+Pratap+Rai+👋;A+Passionate+Data+Analyst+from+India;Exploring+the+Power+of+Data+📊;Turning+Raw+Data+into+Actionable+Insights+💡" alt="Typing SVG" />
+</p>
 
-💡 Turning **Data into Insights** & **Code into Impact**.  
-Passionate about **Data Analytics**, **Web Apps**, and **Machine Learning**.
+<h1 align="center">Hi 👋, I'm Yash Pratap Rai</h1>
+<h3 align="center">📈 A Passionate Data Analyst from India</h3>
 
 ---
 
-### 🌐 Portfolio → [yashprataprai.vercel.app](https://my-portfolio-kappa-one-29.vercel.app/)
-📩 Reach Me → **raiyashpratap@gmail.com**
-
-![Profile Views](https://komarev.com/ghpvc/?username=yashprataprai&color=blueviolet&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/yashprataprai?logo=github&style=for-the-badge)](https://github.com/yashprataprai?tab=followers)
-[![Stars](https://img.shields.io/github/stars/yashprataprai?logo=github&style=for-the-badge)](https://github.com/yashprataprai?tab=repositories)
-
-</div>
-
----
-
-## 🧭 About Me  
-🎓 I'm a **Data Analyst** & **Full-Stack Developer** with a strong analytical mindset.  
-💻 Experienced in **MERN**, **Python**, **SQL**, **Power BI**, and **Machine Learning**.  
-🌱 I love working on **Data Visualizations**, **Dashboards**, and **Predictive Models**.  
-⚡ I aim to combine **Analytics + Development** to build smart, data-driven systems.  
+<p align="center">
+  <a href="https://github.com/yashprataprai">
+    <img src="https://komarev.com/ghpvc/?username=yashprataprai&label=Profile%20Views&color=blueviolet&style=flat-square" alt="views"/>
+  </a>
+  <a href="https://github.com/yashprataprai?tab=followers">
+    <img src="https://img.shields.io/github/followers/yashprataprai?label=Followers&style=flat-square&color=success" alt="followers"/>
+  </a>
+  <a href="https://yashprataprai.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="portfolio"/>
+  </a>
+  <a href="mailto:yashprataprai@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+</p>
 
 ---
 
-## 🤝 Connect With Me  
-<div align="center">
+### 🧠 About Me  
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yash-pratap-rai/)
-[![Kaggle](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg)](https://www.kaggle.com/yashprataprai)
-[![LeetCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://leetcode.com/u/12305809/)
-[![GeeksforGeeks](https://img.icons8.com/color/48/GeeksforGeeks.png)](https://www.geeksforgeeks.org/user/raiyashrwn0/)
-
-</div>
-
----
-
-## 🧰 Languages & Tools  
-<div align="center">
-
-![Python](https://skillicons.dev/icons?i=python)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-7BAFD4?style=for-the-badge&logo=seaborn&logoColor=white)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![C++](https://skillicons.dev/icons?i=cpp)
-![C](https://skillicons.dev/icons?i=c)
-
-</div>
+- 🎓 Data Analyst Student with a passion for **data-driven decision making**
+- 🌱 Currently learning **Machine Learning, Power BI, and SQL**
+- 📊 Skilled in **Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, and Tableau**
+- 💬 Ask me about **Data Cleaning, Visualization, and Predictive Analytics**
+- 🧩 I enjoy turning raw data into **meaningful stories**
+- 📫 Reach me at: **yashprataprai@gmail.com**
+- ⚡ Fun fact: *I believe every dataset hides a story waiting to be told! 📖*
 
 ---
 
-## 🏆 GitHub Achievements  
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=yashprataprai&theme=algolia&margin-w=10&no-frame=true)
-
-</div>
-
----
-
-## 📊 GitHub Stats  
-<div align="center">
-
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashprataprai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashprataprai&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashprataprai&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashprataprai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yashprataprai@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://yashprataprai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/yashprataprai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🚀 Featured Projects  
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🌐 [Portfolio Website](https://my-portfolio-kappa-one-29.vercel.app/) | My personal site showcasing projects & achievements | Next.js, React, CSS |
-| 📊 [Data Analytics Projects](https://github.com/yashprataprai?tab=repositories&q=data&type=&language=&sort=) | Exploratory Data Analysis & Machine Learning projects | Python, Pandas, PowerBI |
-| 🧩 [MERN Applications](https://github.com/yashprataprai?tab=repositories&q=mern&type=&language=&sort=) | Full-stack applications with MERN | MongoDB, Express, React, Node.js |
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,pandas,numpy,matplotlib,seaborn,excel,powerbi,tableau,git,vscode,github,cpp" />
+</p>
 
 ---
 
-## 💬 Quote  
-> “Code is the language of logic; Data is the language of truth.”  
+### 📊 GitHub Insights  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashprataprai&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashprataprai&theme=tokyonight&hide_border=true" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashprataprai&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
 
 ---
 
-<div align="center">
+### 🧩 Random Data Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="quote"/>
+</p>
 
-### 🪶 Thanks for Visiting!  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Building+Intelligent+Systems+with+Data+%26+Code;Connect+with+me+to+create+something+amazing!;Have+a+great+day+%F0%9F%8C%9F" alt="Typing SVG" />
+---
 
-</div>
+### 🪄 Visitor Counter  
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yashprataprai&left_text=Profile%20Visitors" alt="visitors"/>
+</p>
+
+---
+
+### ✨ Fun Touch  
+<p align="center">
+  <img src="https://github.com/yashprataprai/yashprataprai/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
