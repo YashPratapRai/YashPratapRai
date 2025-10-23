@@ -1,21 +1,80 @@
-<h1 align="center">Hi 👋, I'm Yash Pratap Rai</h1>
-<h3 align="center">A passionate Data Analyst and MERN Developer from India.</h3>
+<!-- Yash Pratap Rai - GitHub Profile README -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashprataprai&label=Profile%20views&color=0e75b6&style=flat" alt="yashprataprai" /> </p>
+<h1 align="center">✨ Hi there, I'm Yash Pratap Rai 👋</h1>
+<h3 align="center">🚀 Data Analyst | MERN Developer | Problem Solver</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashprataprai" alt="yashprataprai" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-kappa-one-29.vercel.app/](https://my-portfolio-kappa-one-29.vercel.app/)
-
-- 📫 How to reach me **raiyashpratap@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-pratap-rai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-pratap-rai/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/yashprataprai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/yashprataprai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/12305809/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/12305809/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/raiyashrwn0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/raiyashrwn0/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashprataprai&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/yashprataprai?label=Followers&style=for-the-badge" alt="followers" />
+  <img src="https://img.shields.io/github/stars/yashprataprai?label=Stars&style=for-the-badge" alt="stars" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
+
+### 🧠 About Me  
+💻 Passionate about **Data Analytics, Web Development, and Building Scalable Solutions**.  
+📊 Skilled in **Python, SQL, JavaScript, MERN Stack, and Machine Learning**.  
+🌱 Currently exploring **Data-Driven Applications** and **Cloud Integrations**.  
+🧩 Love solving real-world problems and turning data into insights.  
+🎯 Goal: **To bridge data analytics with intelligent web systems.**
+
+🔗 **Portfolio:** [yashprataprai.vercel.app](https://my-portfolio-kappa-one-29.vercel.app/)  
+📧 **Email:** raiyashpratap@gmail.com  
+
+---
+
+### 🤝 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-pratap-rai/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://www.kaggle.com/yashprataprai" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/12305809/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/raiyashrwn0/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GFG" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🧰 Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,seaborn,mongodb,mysql,cpp,c,js,react,nodejs,express,git,github,linux,vscode" />
+</p>
+
+---
+
+### 🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashprataprai&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophies" />
+</p>
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashprataprai&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashprataprai&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+### 💡 Featured Projects  
+🚀 [**Portfolio Website**](https://my-portfolio-kappa-one-29.vercel.app/) – My personal portfolio showcasing my projects and skills.  
+📊 [**Data Analytics Projects**](https://github.com/yashprataprai?tab=repositories&q=data&type=&language=&sort=) – Exploratory Data Analysis & ML Insights.  
+🌐 [**MERN Applications**](https://github.com/yashprataprai?tab=repositories&q=mern&type=&language=&sort=) – Full-stack projects using MongoDB, Express, React, and Node.js.  
+
+---
+
+### 💬 Quote of the Day  
+> "Turning data into insight, and insight into action."  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+✨;Let's+connect+and+build+something+amazing!+🚀" />
+</p>
