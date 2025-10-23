@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+There!+I'm+Yash+Pratap+Rai+👋;A+Data+Analyst+and+MERN+Developer;I+Love+Turning+Data+into+Insights+📊;Let's+Build+Something+Amazing+Together+🚀" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Yash Pratap Rai</h1>
+<h1 align="center">Hi , I'm Yash Pratap Rai</h1>
 <h3 align="center">📊 Data Analyst & 💻 MERN Stack Developer from India 🇮🇳</h3>
 
 ---
