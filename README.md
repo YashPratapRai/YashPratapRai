@@ -46,3 +46,6 @@ Focused on solving real-world problems using data and deploying practical soluti
 ---
 
 > Turning data into actionable insights and building scalable intelligent systems 🚀
+---
+⭐ Thanks for visiting my profile!  
+Feel free to explore my repositories and connect with me.
