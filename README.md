@@ -14,7 +14,7 @@
 
 <!-- ══ TYPING ANIMATION — using svg url encode without emojis for max compatibility ══ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=50&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Exploring+Generative+AI+%26+LLMs+%F0%9F%A7%A0;Building+Agentic+AI+Systems+%F0%9F%A4%96;ML+Engineer+%7C+NLP+%7C+Deep+Learning;Azure+Analytics+%7C+Power+BI+%7C+MERN" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=50&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Exploring+Generative+AI+and+RAG+%26+LLMs+%F0%9F%A7%A0;Exploring+Agentic+AI+%F0%9F%A4%96;ML+Engineer+%7C+NLP+%7C+Deep+Learning;Azure+Analytics+%7C+Power+BI+%7C" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -156,12 +156,6 @@ Philosophy:
 ### ☁️ Cloud & BI
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 💻 Web (MERN Stack)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
