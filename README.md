@@ -63,10 +63,9 @@ class YashPratapRai:
     def __init__(self):
         self.name          = "Yash Pratap Rai"
         self.role          = "Data Scientist & ML Engineer"
-        self.exploring     = ["Generative AI", "Agentic AI", "LLM Pipelines", "RAG Systems"]
-        self.building      = ["AI Agents", "Tool-Calling LLMs", "Multi-Agent Workflows"]
-        self.frameworks    = ["LangChain", "LangGraph", "AutoGen", "CrewAI"]
-        self.models        = ["GPT-4", "Claude", "Gemini", "Open-Source LLMs"]
+        self.exploring     = ["Generative AI", "Agentic AI", "RAGP Pipelines"]
+        self.frameworks    = ["LangChain", "HuggingFace"]
+        self.models        = ["GPT-4", "Mistal AI", "Gemini", "Open-Source LLMs"]
         self.current_focus = "🚀 Deploying autonomous AI agents that reason, plan & act"
 
     def mission(self):
