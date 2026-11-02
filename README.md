@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ══ HERO HEADER ══ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,35:1a0533,70:4c1d95,100:7c3aed&height=260&section=header&text=Yash%20Pratap%20Rai&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20LangChain%20%E2%80%A2%20LangGraph%20%E2%80%A2%20MCP%20%E2%80%A2%20Agentic%20AI&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,35:1a0533,70:4c1d95,100:7c3aed&height=260&section=header&text=Yash%20Pratap%20Rai&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20ML%20Engineer%20%E2%80%A2%20LangChain%20%E2%80%A2%20LangGraph%20%E2%80%A2%20MCP%20%E2%80%A2%20Agentic%20AI&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=C4B5FD&background=00000000&center=true&vCenter=true&width=780&height=55&lines=Building+stateful+agents+with+LangGraph;Wiring+LLMs+to+real+tools+through+MCP;Shipping+grounded+RAG+pipelines+with+LangChain;Turning+data+into+intelligent+systems" alt="Typing SVG" />
@@ -38,7 +38,7 @@
 <tr>
 <td width="55%" valign="top">
 
-I'm an aspiring **ML Engineer** who likes taking a model from a notebook to something that actually does work.
+I'm an aspiring **Data Scientist and ML Engineer** who likes taking a model from a notebook to something that actually does work.
 
 Right now I'm going deep on **agentic AI**: LLM systems that reason, call tools, keep state, and recover from mistakes, built with **LangChain**, **LangGraph**, and the **Model Context Protocol (MCP)**.
 
