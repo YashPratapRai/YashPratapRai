@@ -1,193 +1,241 @@
 <div align="center">
 
-<!-- ══ ANIMATED WAVING HEADER ══ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:1a0533,70:2d1b69,100:0f0c29&height=220&section=header&text=Yash%20Pratap%20Rai&fontSize=58&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Exploring%20Agentic%20AI&descAlignY=62&descSize=17&descAlign=50&animation=fadeIn" width="100%"/>
+<!-- ══ HEADER ══ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:1a0533,70:2d1b69,100:0f0c29&height=230&section=header&text=Yash%20Pratap%20Rai&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=ML%20Engineer%20%7C%20LangChain%20%26%20LangGraph%20%7C%20MCP%20%7C%20Agentic%20AI&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
-<br/>
-
-<!-- ══ GREETING ══ -->
-<h3>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-  &nbsp;Hey there! I'm Yash — welcome to my GitHub&nbsp;
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-</h3>
-
-<!-- ══ TYPING ANIMATION — using svg url encode without emojis for max compatibility ══ -->
+<!-- ══ TYPING ANIMATION ══ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=50&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Exploring+Generative+AI+and+RAG+%26+LLMs+%F0%9F%A7%A0;Exploring+Agentic+AI+%F0%9F%A4%96;ML+Engineer+%7C+NLP+%7C+Deep+Learning;Azure+Analytics+%7C+Power+BI+%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&width=760&height=50&lines=Building+Stateful+Agents+with+LangGraph;Connecting+LLMs+to+Tools+via+MCP;Shipping+RAG+Pipelines+with+LangChain;Turning+Data+into+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- ══ HIGHLIGHT BADGE ROW ══ -->
-<img src="https://img.shields.io/badge/%F0%9F%A4%96%20Exploring-Agentic%20AI-7C3AED?style=for-the-badge&labelColor=1a0533" />
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Learning-Generative%20AI%20%26%20LLMs-4F46E5?style=for-the-badge&labelColor=1a0533" />
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%9A%80%20Status-Open%20to%20Opportunities-22c55e?style=for-the-badge&labelColor=14532d" />
+<!-- ══ STATUS BADGES ══ -->
+<img src="https://img.shields.io/badge/Focus-LangGraph%20Agents-7C3AED?style=for-the-badge&labelColor=1a0533" />
+<img src="https://img.shields.io/badge/Exploring-Model%20Context%20Protocol-4F46E5?style=for-the-badge&labelColor=1a0533" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=for-the-badge&labelColor=14532d" />
 
 <br/><br/>
 
-<!-- ══ SOCIAL BADGES ══ -->
+<!-- ══ SOCIAL ══ -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Pratap%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashprataprai)
-&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-kappa-one-29.vercel.app/)
-&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashpratapraiofficial@gmail.com)
 
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=yashprataprai&color=7C3AED&style=flat-square&label=Profile+Views)
-&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/yashprataprai?label=Followers&style=flat-square&color=A78BFA)
 
 </div>
 
 ---
 
-<!-- ══════════════════════ AGENTIC AI SECTION ══════════════════════ -->
+## 👋 Hey, I'm Yash
 
-<div align="center">
-
-## 🤖 Currently Exploring — Gen AI & Agentic AI
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:2d1b69&height=3&section=header" width="100%"/>
-
-</div>
+I'm an aspiring **Data Scientist and ML Engineer** who loves taking a model from a notebook to something that actually *does* work. These days I'm focused on **agentic AI**: building LLM systems that can reason, call tools, keep state, and recover from mistakes, using **LangChain**, **LangGraph**, and the **Model Context Protocol (MCP)**.
 
 ```python
 class YashPratapRai:
-    """
-    🤖 Aspiring Data Scientist | ML Engineer | Agentic AI Explorer
-    """
-    def __init__(self):
-        self.name          = "Yash Pratap Rai"
-        self.role          = "Data Scientist & ML Engineer"
-        self.exploring     = ["Generative AI", "Agentic AI", "RAGP Pipelines"]
-        self.frameworks    = ["LangChain", "HuggingFace"]
-        self.models        = ["GPT-4", "Mistal AI", "Gemini", "Open-Source LLMs"]
-        self.current_focus = "🚀 Deploying autonomous AI agents that reason, plan & act"
+    role = "Data Scientist & ML Engineer"
+    location = "India 🇮🇳"
 
-    def mission(self):
-        return "Build intelligent systems that think, learn & operate autonomously 🧠"
+    core_ml     = ["scikit-learn", "TensorFlow / Keras", "NLP", "Feature Engineering"]
+    llm_stack   = ["LangChain", "LangGraph", "HuggingFace", "OpenAI", "Mistral", "Gemini"]
+    protocols   = ["Model Context Protocol (MCP)", "Tool / Function Calling"]
+    retrieval   = ["RAG", "Embeddings", "Vector Databases"]
+    cloud_bi    = ["Azure", "Power BI", "SQL"]
 
-yash = YashPratapRai()
-print(yash.mission())
-# Output: Build intelligent systems that think, learn & operate autonomously 🧠
+    currently   = "Building stateful multi-step agents and MCP-powered tools"
+    philosophy  = "Data in, decisions out. Make the model useful, then make it reliable."
+
+    def open_to(self):
+        return ["ML Engineer", "Data Scientist", "GenAI / Agentic AI roles"]
 ```
-
-<br/>
-
-<div align="center">
-
-### 🌟 Gen AI & Agentic AI — Focus Areas
-
-| 🧠 Generative AI | 🤖 Agentic AI | 🔗 LLM Engineering |
-|:---:|:---:|:---:|
-| LLMs & Prompt Engineering | Autonomous AI Agents | RAG Pipelines |
-| Text & Content Generation | Multi-Agent Orchestration | Tool-Calling & Function Use |
-| Fine-tuning Open LLMs | ReAct & Chain-of-Thought | Vector Databases |
-| Diffusion Models (exploring) | Memory & Planning Loops | LangChain / LangGraph |
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4c1d95,100:7c3aed&height=60&section=header&text=🚀+Building+The+Future+With+AI+Agents&fontSize=20&fontColor=ffffff&animation=blinking" width="80%"/>
-
-</div>
 
 ---
 
-<!-- ══════════════════════ ABOUT ME ══════════════════════ -->
+## 🔭 What I'm Working On
 
-## 🧠 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
-
-```yaml
-Name     : Yash Pratap Rai
-Role     : Aspiring Data Scientist & ML Engineer
-Location : India 🇮🇳
-Status   : Open to Opportunities ✅
-
-Currently Exploring:
-  🤖 Generative AI & LLM Applications
-  🔗 Agentic AI — LangChain, LangGraph, CrewAI
-  🧩 Multi-Agent Systems & Tool Use
-  ☁️ Azure AI Services
-
-Past Projects:
-  🎬 Movie Recommendation System (45K+ movies)
-  📝 LSTM Next Word Prediction Model
-  📊 Interactive Power BI Dashboards
-
-Secondary Skill:
-  💻 MERN Stack (MongoDB, Express, React, Node)
-
-Philosophy:
-  "Turning data into actionable insights &
-   building autonomous intelligent systems 🚀"
-```
-
-<br clear="both"/>
+| Area | What I'm doing | Stack |
+|:--|:--|:--|
+| 🕸️ **LangGraph agents** | Stateful graphs with conditional routing, loops, and human-in-the-loop checkpoints | LangGraph, LangChain |
+| 🔌 **MCP servers & clients** | Exposing data and tools to LLMs through a standard protocol instead of one-off integrations | MCP Python SDK |
+| 📚 **RAG pipelines** | Chunking, embeddings, retrieval, and evaluation for grounded Q&A | LangChain, FAISS / Chroma |
+| 🧪 **Applied ML** | Classical ML + deep learning for prediction and NLP | scikit-learn, TensorFlow |
+| 📊 **Analytics** | Dashboards that turn raw data into decisions | Power BI, SQL, Azure |
 
 ---
 
-<!-- ══════════════════════ TECH STACK ══════════════════════ -->
+## 🧩 Agent Architecture I Build Towards
 
-## 🛠 Tech Stack & Tools
+```mermaid
+flowchart LR
+    U([👤 User]) --> R{{🧭 Router}}
+    R -->|needs knowledge| RAG[📚 RAG Retriever]
+    R -->|needs action| T[🛠️ Tool Executor]
+    R -->|simple| L[🧠 LLM]
+    RAG --> L
+    T <-->|MCP| M[(🔌 MCP Servers<br/>files · DBs · APIs)]
+    L --> C{✅ Self-check}
+    C -->|retry| R
+    C -->|pass| A([💬 Answer])
+
+    style R fill:#4c1d95,stroke:#A78BFA,color:#fff
+    style M fill:#1a0533,stroke:#7C3AED,color:#fff
+    style L fill:#7C3AED,stroke:#fff,color:#fff
+    style C fill:#4c1d95,stroke:#A78BFA,color:#fff
+```
+
+---
+
+## 🕸️ LangGraph in Practice
+
+A minimal stateful graph with a retrieve → generate → verify loop:
+
+```python
+from typing import TypedDict
+from langgraph.graph import StateGraph, END
+
+class State(TypedDict):
+    question: str
+    context: str
+    answer: str
+    attempts: int
+
+def retrieve(state: State) -> dict:
+    docs = retriever.invoke(state["question"])          # your LangChain retriever
+    return {"context": "\n\n".join(d.page_content for d in docs)}
+
+def generate(state: State) -> dict:
+    prompt = f"Context:\n{state['context']}\n\nQuestion: {state['question']}"
+    return {"answer": llm.invoke(prompt).content,
+            "attempts": state.get("attempts", 0) + 1}
+
+def verify(state: State) -> str:
+    grounded = grader.invoke({"answer": state["answer"], "context": state["context"]})
+    return "done" if grounded or state["attempts"] >= 3 else "retry"
+
+graph = StateGraph(State)
+graph.add_node("retrieve", retrieve)
+graph.add_node("generate", generate)
+graph.set_entry_point("retrieve")
+graph.add_edge("retrieve", "generate")
+graph.add_conditional_edges("generate", verify, {"done": END, "retry": "retrieve"})
+
+app = graph.compile()
+```
+
+---
+
+## 🔌 MCP: One Protocol, Many Tools
+
+I'm exploring MCP as the standard way to plug data and tools into LLM apps. A small analytics server:
+
+```python
+from mcp.server.fastmcp import FastMCP
+import pandas as pd
+
+mcp = FastMCP("analytics-server")
+
+@mcp.tool()
+def describe_dataset(path: str) -> dict:
+    """Return row count, columns, and dtypes for a CSV file."""
+    df = pd.read_csv(path)
+    return {"rows": len(df), "columns": list(df.columns),
+            "dtypes": {c: str(t) for c, t in df.dtypes.items()}}
+
+@mcp.tool()
+def top_values(path: str, column: str, n: int = 5) -> dict:
+    """Most frequent values in a column."""
+    return pd.read_csv(path)[column].value_counts().head(n).to_dict()
+
+if __name__ == "__main__":
+    mcp.run()
+```
+
+Any MCP-compatible client (Claude Desktop, LangGraph agents via MCP adapters, IDEs) can discover and call these tools without custom glue code.
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
 
-### 🤖 AI / Gen AI / Agentic AI
+### 🤖 LLM · Agents · MCP
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-4F46E5?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 📊 Data Science & ML
+### 🧪 Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ☁️ Cloud & BI
+### ☁️ Data · Cloud · BI
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 💻 Secondary
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
 ---
-
-<!-- ══════════════════════ PROJECTS ══════════════════════ -->
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| 🎬 Movie Recommendation System | 📝 LSTM Next Word Predictor |
-|:---|:---|
-| Content-based filtering on 45K+ movies | Deep learning NLP model using Keras |
-| TF-IDF + Cosine Similarity | LSTM layers for sequence prediction |
-| Python · Scikit-learn · Pandas | TensorFlow · Keras · Python |
+| 🎬 Movie Recommendation System | 📝 LSTM Next Word Predictor | 📊 Power BI Dashboards |
+|:--|:--|:--|
+| Content-based filtering on **45K+ movies** | Deep learning NLP model for sequence prediction | Interactive dashboards for business insights |
+| TF-IDF + Cosine Similarity | Stacked LSTM layers | KPI tracking & drill-downs |
+| `Python` `scikit-learn` `Pandas` | `TensorFlow` `Keras` `Python` | `Power BI` `SQL` |
 
 </div>
 
-### 🔭 Currently Building
-```
-🤖 Agentic AI Projects:
-   ├── 🔗 RAG-based Q&A system with LangChain
-   ├── 🧠 Multi-agent research assistant (CrewAI)
-   ├── 🛠️ Tool-calling LLM pipeline
-   └── 📊 AI-powered analytics dashboard
+### 🧭 Roadmap: Agentic AI Projects
 
-🚀 Status: Active Development → [Watch this space!]
-```
+| Status | Project | Highlights |
+|:--:|:--|:--|
+| 🔨 | **RAG Q&A system** | LangChain, vector store, retrieval evaluation |
+| 🔨 | **Multi-step research agent** | LangGraph state machine, web search tool, citations |
+| 🧪 | **MCP analytics server** | Expose datasets and charts as MCP tools |
+| 🧪 | **Human-in-the-loop agent** | LangGraph checkpoints, approval steps, memory |
+| 📝 | **Agent evaluation harness** | Trace logging, regression tests for prompts and tools |
+
+<sub>🔨 in progress · 🧪 prototyping · 📝 planned</sub>
 
 ---
 
-<!-- ══════════════════════ GITHUB STATS ══════════════════════ -->
+## 🗺️ Learning Path
+
+```mermaid
+graph LR
+    A[🐍 Python & ML] --> B[🧪 Deep Learning & NLP]
+    B --> C[🔗 LangChain & RAG]
+    C --> D[🕸️ LangGraph Agents]
+    D --> E[🔌 MCP Tools & Servers]
+    E --> F[🚀 Production Agents]
+
+    style A fill:#1a0533,stroke:#7C3AED,color:#fff
+    style B fill:#1a0533,stroke:#7C3AED,color:#fff
+    style C fill:#4c1d95,stroke:#A78BFA,color:#fff
+    style D fill:#4c1d95,stroke:#A78BFA,color:#fff
+    style E fill:#4c1d95,stroke:#A78BFA,color:#fff
+    style F fill:#7C3AED,stroke:#fff,color:#fff
+```
+
+---
 
 ## 📊 GitHub Stats
 
@@ -208,34 +256,18 @@ Philosophy:
 
 ---
 
-<!-- ══════════════════════ AGENTIC AI JOURNEY ══════════════════════ -->
+## 🤝 Let's Connect
 
-## 🗺️ My Agentic AI Learning Journey
-
-```mermaid
-graph LR
-    A[🐍 Python & ML] --> B[🤖 LLMs & Prompting]
-    B --> C[🔗 LangChain / RAG]
-    C --> D[🧠 Agentic AI]
-    D --> E[🤝 Multi-Agent Systems]
-    E --> F[🚀 Autonomous AI Products]
-
-    style A fill:#1a0533,stroke:#7C3AED,color:#fff
-    style B fill:#1a0533,stroke:#7C3AED,color:#fff
-    style C fill:#1a0533,stroke:#7C3AED,color:#fff
-    style D fill:#4c1d95,stroke:#A78BFA,color:#fff
-    style E fill:#4c1d95,stroke:#A78BFA,color:#fff
-    style F fill:#7C3AED,stroke:#fff,color:#fff
-```
-
----
+I'm open to **ML Engineer, Data Scientist, and GenAI / Agentic AI** roles, and always happy to talk about LangGraph, MCP, or RAG.
 
 <div align="center">
 
+📫 **[yashpratapraiofficial@gmail.com](mailto:yashpratapraiofficial@gmail.com)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/yashprataprai)** &nbsp;·&nbsp; 🌐 **[Portfolio](https://my-portfolio-kappa-one-29.vercel.app/)**
+
+<br/>
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20if%20you%20like%20it&fontSize=18&fontColor=A78BFA&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!%20Star%20if%20you%20like%20it&fontSize=18&fontColor=A78BFA&animation=twinkling" width="100%"/>
 
 </div>
