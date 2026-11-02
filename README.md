@@ -38,7 +38,7 @@
 <tr>
 <td width="55%" valign="top">
 
-I'm an aspiring **Data Scientist and ML Engineer** who likes taking a model from a notebook to something that actually does work.
+I'm an aspiring **ML Engineer** who likes taking a model from a notebook to something that actually does work.
 
 Right now I'm going deep on **agentic AI**: LLM systems that reason, call tools, keep state, and recover from mistakes, built with **LangChain**, **LangGraph**, and the **Model Context Protocol (MCP)**.
 
@@ -53,7 +53,7 @@ Right now I'm going deep on **agentic AI**: LLM systems that reason, call tools,
 
 ```python
 class Yash:
-    role = "ML Engineer"
+    role = "Aspiring ML Engineer"
     location = "India 🇮🇳"
 
     stack = [
